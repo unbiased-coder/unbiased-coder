@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @unbiased-coder
-- 👀 I’m interested in crypto, machine learning and cloud technologies
-- 🌱 I’m currently learning all things technology and digital marketing
-- 📫 How to reach me info@unbiased-coder.com
+- 👋 This GitHub repo has code associated with my blog which you can find here:
 
+https://unbiased-coder.com
+
+I write about Python, NodeJS and AWS stuff.
+
+📫 If you would like to reach me you can email me at: info@unbiased-coder.com
+
+You can find all my repos here:
+
+https://github.com/unbiased-coder
