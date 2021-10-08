@@ -9,3 +9,5 @@ I write about Python, NodeJS and AWS stuff, if you are a beginner or intermediat
 You can find all my repos here:
 
 https://github.com/unbiased-coder
+
+<meta name="google-site-verification" content="yVxfjGkMwWWVP6xgjc9ZNmkLQZmF9xUwn6NMgI-iWs0" />
